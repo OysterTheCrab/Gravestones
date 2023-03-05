@@ -19,4 +19,4 @@ clear @s
 # Prep display
 function otc_grave:prep/display 
 
-
+give @s recovery_compass
