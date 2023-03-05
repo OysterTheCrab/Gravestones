@@ -1,6 +1,8 @@
 # Reset
 scoreboard players set @s otcDeath 0
 
+function 
+
 # Store player death pos location
 data modify storage otc_grave:data CorrectPos set value [0d,0d,0d]
 data modify storage otc_grave:data IntPos set from entity @s LastDeathLocation.pos
