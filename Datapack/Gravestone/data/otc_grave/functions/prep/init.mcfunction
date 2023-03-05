@@ -17,6 +17,6 @@ function #rx.playerdb:api/v2/save/self
 clear @s
 
 # Prep display
-function otc_grave:prep/display 
+function otc_grave:prep/display
 
 give @s recovery_compass
