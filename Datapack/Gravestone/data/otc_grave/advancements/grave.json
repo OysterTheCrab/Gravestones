@@ -11,7 +11,7 @@
       }
     },
     "rewards": {
-      "function": "otc_grave:grave/interact"
+      "function": "otc_grave:interact/interact"
     }
   }
   

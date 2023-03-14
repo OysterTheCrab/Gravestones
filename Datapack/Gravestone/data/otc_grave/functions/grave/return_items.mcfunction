@@ -1,3 +1,4 @@
+function otc_grave:grave/sound_and_particles
 
 # Insert data
 function #rx.playerdb:api/v2/get/self
